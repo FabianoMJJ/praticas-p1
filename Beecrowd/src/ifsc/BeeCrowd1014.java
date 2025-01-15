@@ -10,7 +10,7 @@ public class BeeCrowd1014 {
 		
 		double distancia;
 		double combustivel;
-		double media = 0;
+		double media;
 		
 		distancia = leia.nextDouble();
 		combustivel = leia.nextDouble();
@@ -18,7 +18,7 @@ public class BeeCrowd1014 {
 		media = distancia / combustivel;
 		
 		System.out.printf("%.3f", media);
-		System.out.println("km/l");
+		System.out.println(" km/l");
 
 	}
 
