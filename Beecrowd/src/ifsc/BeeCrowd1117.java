@@ -18,7 +18,6 @@ public class BeeCrowd1117 {
 			System.out.println("nota invalida");
 		
 		nota1 = leia.nextDouble();
-		
 		}
 
 		nota2 = leia.nextDouble();
